@@ -16,7 +16,7 @@ public class AdminActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin);
         addhouse = findViewById(R.id.addhousebtn);
-        Intent intent = new Intent(AdminActivity.this, activity_addhouseactivity.class);
+        Intent intent = new Intent(AdminActivity.this, Activity_addhouseactivity.class);
         addhouse.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

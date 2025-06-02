@@ -17,7 +17,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 
-public class activity_successful_google_signin extends AppCompatActivity {
+public class Activity_successful_google_signin extends AppCompatActivity {
 
     public static final String GOOGLE_ACCOUNT = "google_account";
     ImageView profile_image ;
@@ -57,7 +57,7 @@ public class activity_successful_google_signin extends AppCompatActivity {
 //                Intent act_select_city = new Intent(activity_successful_google_signin.this , activity_selectcity.class);
 //                startActivity(act_select_city);
 
-                Intent act_select_city = new Intent(activity_successful_google_signin.this , activity_selectcity.class);
+                Intent act_select_city = new Intent(Activity_successful_google_signin.this , Activity_selectcity.class);
                 startActivity(act_select_city);
 
             }
@@ -90,7 +90,7 @@ public class activity_successful_google_signin extends AppCompatActivity {
                 .addOnCompleteListener(this, new OnCompleteListener<Void>() {
                     @Override
                     public void onComplete(@NonNull Task<Void> task) {
-                        Intent signin_again = new Intent(activity_successful_google_signin.this , activity_login_user.class);
+                        Intent signin_again = new Intent(Activity_successful_google_signin.this , Activity_login_user.class);
                         startActivity(signin_again);
                         finish();
                     }

@@ -15,7 +15,7 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
-public class houselist extends AppCompatActivity {
+public class Houselist extends AppCompatActivity {
 
 
     RecyclerView recyclerView;

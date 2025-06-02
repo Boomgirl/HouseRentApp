@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-public class activity_login_admin extends AppCompatActivity {
+public class Activity_login_admin extends AppCompatActivity {
 
     private EditText email, password;
     private Button SignInbtn;
@@ -40,7 +40,7 @@ public class activity_login_admin extends AppCompatActivity {
         SignInbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(activity_login_admin.this , act_adminAct.class);
+                Intent intent = new Intent(Activity_login_admin.this , Act_adminAct.class);
                 startActivity(intent);
 //                login();
             }
@@ -56,7 +56,7 @@ public class activity_login_admin extends AppCompatActivity {
         {
             if (email1.equals("admin") && password1.equals("Admin"))
             {
-                Intent intent = new Intent(activity_login_admin.this , AdminActivity.class);
+                Intent intent = new Intent(Activity_login_admin.this , AdminActivity.class);
                 startActivity(intent);
             }
             else

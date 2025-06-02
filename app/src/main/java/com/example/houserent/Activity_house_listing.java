@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class activity_house_listing extends AppCompatActivity {
+public class Activity_house_listing extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

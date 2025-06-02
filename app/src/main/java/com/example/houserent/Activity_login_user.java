@@ -18,7 +18,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.Task;
 
-public class activity_login_user extends AppCompatActivity {
+public class Activity_login_user extends AppCompatActivity {
 
     GoogleSignInClient mGoogleSignInClient ;
 
@@ -84,8 +84,8 @@ public class activity_login_user extends AppCompatActivity {
 
     private void OnLoggedIn(GoogleSignInAccount googleSignInAccount) {
 
-        Intent intent = new Intent(this, activity_successful_google_signin.class);
-        intent.putExtra(activity_successful_google_signin.GOOGLE_ACCOUNT, googleSignInAccount);
+        Intent intent = new Intent(this, Activity_successful_google_signin.class);
+        intent.putExtra(Activity_successful_google_signin.GOOGLE_ACCOUNT, googleSignInAccount);
 
         startActivity(intent);
         finish();

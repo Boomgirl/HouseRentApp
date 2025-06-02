@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-public class activity_registration_user extends AppCompatActivity {
+public class Activity_registration_user extends AppCompatActivity {
 
     EditText userFullName , userEmail , userPassword , userContact ;
     Button btn_register ;
@@ -20,7 +20,7 @@ public class activity_registration_user extends AppCompatActivity {
 
 //    FirebaseDatabase firebaseDatabase ;
 //    DatabaseReference databaseReference ;
-    userInfo userInfo ;
+    UserInfo userInfo ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +37,7 @@ public class activity_registration_user extends AppCompatActivity {
 //        firebaseDatabase = FirebaseDatabase.getInstance();
 //        databaseReference = firebaseDatabase.getReference("userInfo");
 
-        userInfo = new userInfo();
+        userInfo = new UserInfo();
 
         btn_register.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -49,7 +49,7 @@ public class activity_registration_user extends AppCompatActivity {
                 String mobileNo = userContact.getText().toString();
 
                 if(TextUtils.isEmpty(name) && TextUtils.isEmpty(email) && TextUtils.isEmpty(password) && TextUtils.isEmpty(mobileNo)) {
-                    Toast.makeText(activity_registration_user.this, "Please Add some data", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Activity_registration_user.this, "Please Add some data", Toast.LENGTH_SHORT).show();
                 }
                 else {
 //                    addUserInfoToFirebase(name, email , password , mobileNo);
@@ -61,7 +61,7 @@ public class activity_registration_user extends AppCompatActivity {
 //                        mDatabase.child("users").child(userId).setValue(user);
 //                    }
 
-                    Intent intent = new Intent(view.getContext() , activity_reg_successful.class);
+                    Intent intent = new Intent(view.getContext() , Activity_reg_successful.class);
                     intent.putExtra("name",name);
                     intent.putExtra("email",email);
                     startActivity(intent);

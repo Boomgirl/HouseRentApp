@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class activity_reg_successful extends AppCompatActivity {
+public class Activity_reg_successful extends AppCompatActivity {
 
     ImageView profile_image ;
     TextView profile_name , profile_email ;
@@ -38,7 +38,7 @@ public class activity_reg_successful extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent i_select_city = new Intent(getApplicationContext() , activity_selectcity.class);
+                Intent i_select_city = new Intent(getApplicationContext() , Activity_selectcity.class);
                 startActivity(i_select_city);
                 finish();
 

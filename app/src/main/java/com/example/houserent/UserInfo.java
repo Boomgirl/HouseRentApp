@@ -1,17 +1,17 @@
 package com.example.houserent;
 
-public class userInfo {
+public class UserInfo {
 
     private String userFullName ;
     private String userEmail ;
     private String userPassword ;
     private String userContact ;
 
-    public userInfo() {
+    public UserInfo() {
 
     }
 
-    public userInfo(String userFullName, String userEmail, String userPassword, String userContact) {
+    public UserInfo(String userFullName, String userEmail, String userPassword, String userContact) {
         this.userFullName = userFullName;
         this.userEmail = userEmail;
         this.userPassword = userPassword;

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:background="@color/dark_grey"
     android:layout_height="match_parent"
-    tools:context=".houselist">
+    tools:context=".Houselist">
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="409dp"

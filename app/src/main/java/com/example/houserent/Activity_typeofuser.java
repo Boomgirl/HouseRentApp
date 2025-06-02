@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class activity_typeofuser extends AppCompatActivity {
+public class Activity_typeofuser extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +21,7 @@ public class activity_typeofuser extends AppCompatActivity {
         cv_admin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent act_login_admin = new Intent(activity_typeofuser.this , activity_login_admin.class);
+                Intent act_login_admin = new Intent(Activity_typeofuser.this , Activity_login_admin.class);
                 startActivity(act_login_admin);
             }
         });
@@ -30,7 +30,7 @@ public class activity_typeofuser extends AppCompatActivity {
         cv_user.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent act_login_user = new Intent(activity_typeofuser.this , activity_neworexistinguser.class);
+                Intent act_login_user = new Intent(Activity_typeofuser.this , Activity_neworexistinguser.class);
                 startActivity(act_login_user);
             }
         });

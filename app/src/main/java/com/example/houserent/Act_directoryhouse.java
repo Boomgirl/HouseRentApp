@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class act_directoryhouse extends AppCompatActivity {
+public class Act_directoryhouse extends AppCompatActivity {
 
 
 //    RecyclerView recyclerView;

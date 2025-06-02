@@ -9,7 +9,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
-public class splash_activity extends AppCompatActivity {
+public class Splash_activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,8 +19,8 @@ public class splash_activity extends AppCompatActivity {
         TextView txtAppName = findViewById(R.id.id_splash_app_name);
         TextView splash_tagline = findViewById(R.id.tagline);
 
-        Animation alphaOnAppName = AnimationUtils.loadAnimation(splash_activity.this, R.anim.alpha_animation);
-        Animation translateOnTagline = AnimationUtils.loadAnimation(splash_activity.this, R.anim.translate_animation);
+        Animation alphaOnAppName = AnimationUtils.loadAnimation(Splash_activity.this, R.anim.alpha_animation);
+        Animation translateOnTagline = AnimationUtils.loadAnimation(Splash_activity.this, R.anim.translate_animation);
 
         txtAppName.setAnimation(alphaOnAppName);
         splash_tagline.setAnimation(translateOnTagline);
@@ -29,7 +29,7 @@ public class splash_activity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent selectRole = new Intent(splash_activity.this, activity_typeofuser.class);
+                Intent selectRole = new Intent(Splash_activity.this, Activity_typeofuser.class);
                 startActivity(selectRole);
                 finish();
             }
