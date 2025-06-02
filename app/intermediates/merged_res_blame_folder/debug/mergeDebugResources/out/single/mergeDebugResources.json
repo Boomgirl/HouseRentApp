@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_translate_animation.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\translate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_newuser_custom_input.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\newuser_custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_selectcity.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_selectcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_italic.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_select_location_lottie_anim_person.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\select_location_lottie_anim_person.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_peter.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\peter.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_successful_google_signin_lottieanim.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\successful_google_signin_lottieanim.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.houserent.app-debug-40:/layout_activity_registration_user.xml.flat",
+        "source": "com.example.houserent.app-main-42:/layout/activity_registration_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_admin_icon_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\admin_icon_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_splash_house_icon_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\splash_house_icon_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_img_hyderabad.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\img_hyderabad.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_user_male_icon_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\user_male_icon_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_user_female_icon_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\user_female_icon_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-mdpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-mdpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_black.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_splash_renthouse_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\splash_renthouse_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_typeofuser.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_typeofuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-hdpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-hdpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xhdpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xhdpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_lock_focused.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_lock_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_login_user.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_login_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-anydpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-anydpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_splash_houseicon_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\splash_houseicon_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxhdpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxhdpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_house_listing.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_house_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_kazan.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\kazan.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_google_logo.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_sochi.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\sochi.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_existinguser_selectuser_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\existinguser_selectuser_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_act_directoryhouse.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_act_directoryhouse.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_act_admin.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_act_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_img_chennai.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\img_chennai.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_user_login_activity_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\user_login_activity_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_ic_person_focused.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\ic_person_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_reg_successful.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_reg_successful.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_neworexistinguser.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_neworexistinguser.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_moscow.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\moscow.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_verify_bg_card.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\verify_bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_hosuelist.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_hosuelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_item.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_registration_user.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_registration_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_select_location_lottie_anim_pin.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\select_location_lottie_anim_pin.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_act_addhouse.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_act_addhouse.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\anim_alpha_animation.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\anim\\alpha_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_login_admin.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_login_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_thin.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_user_registration_activity_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\user_registration_activity_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_successful_google_signin.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_successful_google_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_img_banglore.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\img_banglore.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xxxhdpi_logo_houserentapp.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xxxhdpi\\logo_houserentapp.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_custom_email.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_custom_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable-v24_img_mumbai.png.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable-v24\\img_mumbai.png"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\layout_activity_addhouseactivity.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\layout\\activity_addhouseactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_email_focused.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_email_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\raw_newuser_selectuser_lottieanimation.json.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\raw\\newuser_selectuser_lottieanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-debug-40:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\polya\\.gradle\\daemon\\8.11.1\\com.example.houserent.app-main-42:\\drawable\\ic_person.xml"
+    }
+]

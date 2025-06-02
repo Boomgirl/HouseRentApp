@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blue">#303F9F</color>
+    <color name="blue_primary">#3700B3</color>
+    <color name="blue_primaryVariant">#6200EE</color>
+    <color name="dark_grey">#121212</color>
+    <color name="green_btn">#03DAC5</color>
+    <color name="green_light">#07D9B2</color>
+    <color name="green_secondary">#03DAC6</color>
+    <color name="green_secondaryVariant">#018786</color>
+    <color name="grey_overlay">#1F1F1F</color>
+    <color name="ic_launcher_background">#F7FF00</color>
+    <color name="light_grey">#BDBDBD</color>
+    <color name="pink">#FF0266</color>
+    <color name="purple">#673AB7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#C62828</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="verify_green">#17C37E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="admin_txt">Admin</string>
+    <string name="app_name">House Rent App</string>
+    <string name="continue_btn_txt">Continue</string>
+    <string name="copyright">Copyright © 2022 - Rohit Kadu</string>
+    <string name="default_web_client_id" translatable="false">850956394816-oga0qulfo5c2v2v3s3n1401hvsjd6143.apps.googleusercontent.com</string>
+    <string name="email_address_hint">someone@example.com</string>
+    <string name="email_et_txt">Email Address</string>
+    <string name="existinguser_txt">Existing User</string>
+    <string name="gcm_defaultSenderId" translatable="false">850956394816</string>
+    <string name="google_api_key" translatable="false">AIzaSyDBBDFIv_nSnsmlGGNHMH_Afkn9GPAGqiM</string>
+    <string name="google_app_id" translatable="false">1:850956394816:android:2e9cbc0f52962359939aa5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBBDFIv_nSnsmlGGNHMH_Afkn9GPAGqiM</string>
+    <string name="google_storage_bucket" translatable="false">izbushkadushka-1f7ec.firebasestorage.app</string>
+    <string name="newuser_txt">New User</string>
+    <string name="or_line">------------------------ OR --------------------------</string>
+    <string name="password_et_txt">Password</string>
+    <string name="project_id" translatable="false">izbushkadushka-1f7ec</string>
+    <string name="register_btn_txt">Register</string>
+    <string name="select_city_txt">Select City</string>
+    <string name="select_role_txt">Select Role</string>
+    <string name="select_user_txt">Select User</string>
+    <string name="sign_in_btn_txt">Sign In</string>
+    <string name="sign_out_btn_txt">Sign Out</string>
+    <string name="signin_to_register_txt">Don\'t have an account?</string>
+    <string name="tagline">Find Your Dream Rental Property Here</string>
+    <string name="txt_full_name_newuser">Full Name</string>
+    <string name="txt_mobile_number_newuser">Mobile Number</string>
+    <string name="txt_sign_in_using">Sign In Using :</string>
+    <string name="user_txt">User</string>
+    <string name="welcome_back_txt">Welcome Back</string>
+    <style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+    <style name="Theme.HouseRentAppProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/green_secondary</item>
+        <item name="colorSecondaryVariant">@color/green_secondaryVariant</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+
+        
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+    </style>
+</resources>
