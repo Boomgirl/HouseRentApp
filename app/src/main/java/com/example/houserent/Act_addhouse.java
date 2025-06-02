@@ -10,7 +10,7 @@ import android.widget.EditText;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-public class act_addhouse extends AppCompatActivity {
+public class Act_addhouse extends AppCompatActivity {
 
     private EditText name, number, type, rent, city;
     private Button btn;
